@@ -1501,7 +1501,7 @@ components:
     article_list:
       properties:
         pages:
-          "$ref": "#components/schemas/offset_pages"
+          "$ref": "#/components/schemas/offset_pages"
     company_list:
       properties:
         pages:
